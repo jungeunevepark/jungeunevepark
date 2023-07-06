@@ -42,8 +42,8 @@
 <hr>
 <h4 style="font-weight: bold" align="center"> ✨ Experience ✨ </h4>
 <div align="center">
-  <h6> 2022.03 ~ 2022.12 : 멋쟁이사자처럼 10기 🦁</h6>
   <h6> 2023.01 ~ : SSAFY 9기 💎</h6>
+  <h6> 2022.03 ~ 2022.12 : 멋쟁이사자처럼 10기 🦁</h6>
 </div>
 <hr>
 <div align="center">
