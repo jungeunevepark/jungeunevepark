@@ -1,9 +1,8 @@
 <p align="center"><img style="height: 320px;" src="https://github.com/jungeunevepark/jungeunevepark/assets/101235186/3c7ba629-a1ab-49b5-9d5d-fd2cb4bb9605"></p>
 
 <h3 align="center">안녕하세요, 매 순간순간 최선을 다하는 개발자 박정은입니다 👋</h3>
-
-<h4 style="font-weight: bold" align="center"> 🌱 Tech Stack 🌱 </h4>
 <hr>
+<h4 style="font-weight: bold" align="center"> 🌱 Tech Stack 🌱 </h4>
 <h6 align="center"> ⚡ Platforms & Languages </h6>
   <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
