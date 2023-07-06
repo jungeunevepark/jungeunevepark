@@ -1,6 +1,6 @@
 <p align="center"><img style="height: 320px;" src="https://github.com/jungeunevepark/jungeunevepark/assets/101235186/3c7ba629-a1ab-49b5-9d5d-fd2cb4bb9605"></p>
 
-### 안녕하세요, 매 순간순간 최선을 다하는 개발자 박정은입니다 👋
+<h3 align="center">안녕하세요, 매 순간순간 최선을 다하는 개발자 박정은입니다 👋</h3>
 
 <!--
 **jungeunevepark/jungeunevepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
