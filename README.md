@@ -1,5 +1,5 @@
-![carbon](https://github.com/jungeunevepark/jungeunevepark/assets/101235186/3c7ba629-a1ab-49b5-9d5d-fd2cb4bb9605)
 
+<img ref="https://github.com/jungeunevepark/jungeunevepark/assets/101235186/3c7ba629-a1ab-49b5-9d5d-fd2cb4bb9605">
 ### 안녕하세요, 매 순간순간 최선을 다하는 개발자 박정은입니다 👋
 
 <!--
