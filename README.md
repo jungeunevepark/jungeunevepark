@@ -2,6 +2,16 @@
 
 <h3 align="center">안녕하세요, 매 순간순간 최선을 다하는 개발자 박정은입니다 👋</h3>
 
+<h6 align="center"> Tech Stack </h6>
+<p> Platforms & Languages </p>
+  <div align="center">
+  	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+  	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  </div>
+<p> Tools </p>
+
+<p> SNS & Portfolio </p>
 <!--
 **jungeunevepark/jungeunevepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
