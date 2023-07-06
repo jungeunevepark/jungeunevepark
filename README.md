@@ -35,7 +35,7 @@
     <img href="https://evecomcom.tistory.com" src="https://img.shields.io/badge/Blog-eb531f?style=flat&logo=tistory&logoColor=white"/>
     <img href="" src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat&logo=aerlingus&logoColor=white"/>
     <a href="mailto:evecomcom98@naver.com" target="_blank">
-    <img src=https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
+    <img src=https://img.shields.io/badge/Mail-2DB400.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
 </div>
 <!--
 **jungeunevepark/jungeunevepark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
