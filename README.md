@@ -37,7 +37,13 @@
     </a>
     <img href="" src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat&logo=aerlingus&logoColor=white"/>
     <a href="mailto:evecomcom98@naver.com" target="_blank">
-    <img src=https://img.shields.io/badge/Mail-2DB400.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
+    <img src=https://img.shields.io/badge/Mail-2DB400.svg?&style=flat-square&logo=naver&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
+</div>
+<hr>
+<h4 style="font-weight: bold" align="center"> ✨ Experience ✨ </h4>
+<div align="center">
+  <h6> 2022.03 ~ 2022.12 : 멋쟁이사자처럼 10기 🦁</h6>
+  <h6> 2023.01 ~ : SSAFY 9기 💎</h6>
 </div>
 <hr>
 <div align="center">
