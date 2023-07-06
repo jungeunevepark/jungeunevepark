@@ -40,4 +40,4 @@
     <img src=https://img.shields.io/badge/Mail-2DB400.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
 </div>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=evecomcom98)](https://solved.ac/evecomcom98)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=evecomcom98)]
