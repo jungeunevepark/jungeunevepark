@@ -39,5 +39,7 @@
     <a href="mailto:evecomcom98@naver.com" target="_blank">
     <img src=https://img.shields.io/badge/Mail-2DB400.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" /></a>
 </div>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evecomcom98"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jungeunevepark&show_icons=true">
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=evecomcom98"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jungeunevepark&show_icons=true">
+</div>
